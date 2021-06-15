@@ -12,7 +12,7 @@
         <java.version>1.8</java.version>
 
         <kotlin.version>1.3.11</kotlin.version>
-        <validator.version>6.0.14.Final</validator.version>
+        <validator.version>6.0.20.Final</validator.version>
         <javax-el.version>3.0.0</javax-el.version>
         <jpa.version>2.2</jpa.version>
         <springfox.version>2.9.2</springfox.version>
